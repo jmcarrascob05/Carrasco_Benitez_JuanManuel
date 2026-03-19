@@ -1,0 +1,51 @@
+--------------------------------------------
+CONTENEDOR: rustyx-db
+TIMESTAMP: 2026-03-19 13:25:34
+--------------------------------------------
+
+--- PROCESOS ACTIVOS ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0   4752  3512 ?        Ss   13:16   0:00 bash -c  apt-get update >/dev/null 2>&1 && apt-get install -y procps >/dev/null 2>&1 && chmod +x /scripts/recopilar_datos.sh && docker-entrypoint.sh mariadbd & while true;do /scripts/recopilar_datos.sh;sleep 5;done 
+root           7  0.0  0.0   4752  1796 ?        S    13:16   0:00 bash -c  apt-get update >/dev/null 2>&1 && apt-get install -y procps >/dev/null 2>&1 && chmod +x /scripts/recopilar_datos.sh && docker-entrypoint.sh mariadbd & while true;do /scripts/recopilar_datos.sh;sleep 5;done 
+mysql        347  0.4  1.9 1095420 151664 ?      Sl   13:17   0:02 mariadbd
+root        1942  0.0  0.0   4752  3564 ?        S    13:25   0:00 /bin/bash /scripts/recopilar_datos.sh
+root        1945  0.0  0.0   8280  4176 ?        R    13:25   0:00 ps aux
+
+--- USO DE CPU ---
+top - 13:25:34 up 9 min,  0 user,  load average: 0.09, 0.10, 0.07
+Tasks:   6 total,   1 running,   5 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  1.6 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7601.2 total,   5262.4 free,   1189.5 used,   1392.5 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6411.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0    4752   3512   3244 S   0.0   0.0   0:00.17 bash
+      7 root      20   0    4752   1796   1532 S   0.0   0.0   0:00.00 bash
+    347 mysql     20   0 1095420 151664  27180 S   0.0   1.9   0:02.39 mariadbd
+   1942 root      20   0    4752   3564   3292 S   0.0   0.0   0:00.00 recopil+
+   1946 root      20   0    9280   4884   2992 R   0.0   0.1   0:00.00 top
+   1947 root      20   0    3136   1008    920 S   0.0   0.0   0:00.00 head
+
+--- USO DE MEMORIA ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       1.2Gi       5.1Gi       4.4Mi       1.4Gi       6.3Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- USO DE DISCO ---
+Filesystem      Size  Used Avail Use% Mounted on
+overlay        1007G   12G  945G   2% /
+tmpfs            64M     0   64M   0% /dev
+tmpfs           3.8G     0  3.8G   0% /sys/fs/cgroup
+shm              64M     0   64M   0% /dev/shm
+C:\             476G  427G   50G  90% /scripts
+/dev/sdc       1007G   12G  945G   2% /etc/hosts
+tmpfs           3.8G     0  3.8G   0% /proc/acpi
+tmpfs           3.8G     0  3.8G   0% /sys/firmware
+
+--- SERVICIOS ---
+NGINX:
+ No encontrado
+MARIADB:
+root           1  0.0  0.0   4752  3512 ?        Ss   13:16   0:00 bash -c  apt-get update >/dev/null 2>&1 && apt-get install -y procps >/dev/null 2>&1 && chmod +x /scripts/recopilar_datos.sh && docker-entrypoint.sh mariadbd & while true;do /scripts/recopilar_datos.sh;sleep 5;done 
+root           7  0.0  0.0   4752  1796 ?        S    13:16   0:00 bash -c  apt-get update >/dev/null 2>&1 && apt-get install -y procps >/dev/null 2>&1 && chmod +x /scripts/recopilar_datos.sh && docker-entrypoint.sh mariadbd & while true;do /scripts/recopilar_datos.sh;sleep 5;done 
+mysql        347  0.4  1.9 1095420 151664 ?      Sl   13:17   0:02 mariadbd

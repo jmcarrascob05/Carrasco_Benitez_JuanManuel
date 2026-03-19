@@ -1,0 +1,118 @@
+2026-03-04 13:52:07 | Balanceador | Sin datos recientes (archivo con 1793s de antigüedad)
+2026-03-04 13:52:07 | Servidor Web 1 | Sin datos recientes (archivo con 1793s de antigüedad)
+2026-03-04 13:52:07 | Servidor Web 2 | Sin datos recientes (archivo con 1793s de antigüedad)
+2026-03-04 13:52:07 | Base de Datos | Sin datos recientes (archivo con 1793s de antigüedad)
+2026-03-04 13:52:31 | Balanceador | nginx detenido
+2026-03-04 13:52:31 | Balanceador | mariadb detenido
+2026-03-04 13:52:31 | Servidor Web 1 | nginx detenido
+2026-03-04 13:52:31 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:52:31 | Servidor Web 2 | nginx detenido
+2026-03-04 13:52:31 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:52:31 | Base de Datos | nginx detenido
+2026-03-04 13:54:19 | Balanceador | mariadb detenido
+2026-03-04 13:54:19 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:54:20 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:54:20 | Base de Datos | nginx detenido
+2026-03-04 13:55:22 | Balanceador | mariadb detenido
+2026-03-04 13:55:22 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:55:22 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:55:22 | Base de Datos | nginx detenido
+2026-03-04 13:55:39 | Balanceador | mariadb detenido
+2026-03-04 13:55:39 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:55:39 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:55:39 | Base de Datos | nginx detenido
+2026-03-04 13:57:01 | Balanceador | mariadb detenido
+2026-03-04 13:57:01 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:57:01 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:57:01 | Base de Datos | nginx detenido
+2026-03-04 13:57:29 | Balanceador | mariadb detenido
+2026-03-04 13:57:29 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:57:29 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:57:29 | Base de Datos | Archivo vacío o ilegible
+2026-03-04 13:57:32 | Base de Datos | nginx detenido
+2026-03-04 13:59:20 | Balanceador | mariadb detenido
+2026-03-04 13:59:20 | Servidor Web 1 | mariadb detenido
+2026-03-04 13:59:20 | Servidor Web 2 | mariadb detenido
+2026-03-04 13:59:20 | Base de Datos | nginx detenido
+2026-03-06 12:03:48 | Balanceador | mariadb detenido
+2026-03-06 12:03:48 | Servidor Web 1 | mariadb detenido
+2026-03-06 12:03:48 | Servidor Web 2 | mariadb detenido
+2026-03-06 12:03:48 | Base de Datos | nginx detenido
+2026-03-06 12:17:46 | Balanceador | mariadb detenido
+2026-03-06 12:17:46 | Servidor Web 1 | mariadb detenido
+2026-03-06 12:17:46 | Servidor Web 2 | mariadb detenido
+2026-03-06 12:17:46 | Base de Datos | nginx detenido
+2026-03-09 12:53:49 | Balanceador | mariadb detenido
+2026-03-09 12:53:49 | Servidor Web 1 | mariadb detenido
+2026-03-09 12:53:49 | Servidor Web 2 | mariadb detenido
+2026-03-09 12:53:49 | Base de Datos | nginx detenido
+2026-03-09 12:57:47 | Balanceador | mariadb detenido
+2026-03-09 12:57:47 | Servidor Web 1 | mariadb detenido
+2026-03-09 12:57:47 | Servidor Web 2 | mariadb detenido
+2026-03-09 12:57:47 | Base de Datos | nginx detenido
+2026-03-09 13:09:09 | Balanceador | mariadb detenido
+2026-03-09 13:09:09 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:09:09 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:09:09 | Base de Datos | nginx detenido
+2026-03-09 13:09:19 | Balanceador | mariadb detenido
+2026-03-09 13:09:19 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:09:19 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:09:19 | Base de Datos | nginx detenido
+2026-03-09 13:11:55 | Balanceador | mariadb detenido
+2026-03-09 13:11:55 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:11:55 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:11:55 | Base de Datos | nginx detenido
+2026-03-09 13:17:29 | Balanceador | mariadb detenido
+2026-03-09 13:17:29 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:17:29 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:17:29 | Base de Datos | nginx detenido
+2026-03-09 13:21:26 | Servidor Web 1 | Archivo vacío o ilegible
+2026-03-09 13:24:51 | Balanceador | Archivo vacío o ilegible
+2026-03-09 13:28:15 | Servidor Web 1 | nginx detenido
+2026-03-09 13:28:15 | Servidor Web 2 | nginx detenido
+2026-03-09 13:31:40 | Base de Datos | mariadb detenido
+2026-03-09 13:37:59 | Balanceador | mariadb detenido
+2026-03-09 13:37:59 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:37:59 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:37:59 | Base de Datos | nginx detenido
+2026-03-09 13:43:58 | Balanceador | mariadb detenido
+2026-03-09 13:43:58 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:43:58 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:43:59 | Base de Datos | nginx detenido
+2026-03-09 13:44:23 | Base de Datos | mariadb detenido
+2026-03-09 13:47:58 | Balanceador | mariadb detenido
+2026-03-09 13:47:58 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:47:58 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:47:58 | Base de Datos | nginx detenido
+2026-03-09 13:50:06 | Balanceador | mariadb detenido
+2026-03-09 13:50:06 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:50:06 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:50:06 | Base de Datos | nginx detenido
+2026-03-09 13:57:58 | Balanceador | mariadb detenido
+2026-03-09 13:57:58 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:57:58 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:57:58 | Base de Datos | nginx detenido
+2026-03-09 13:58:22 | Balanceador | Sin datos recientes (20s de antigüedad)
+2026-03-09 13:58:22 | Base de Datos | Sin datos recientes (20s de antigüedad)
+2026-03-09 13:58:28 | Servidor Web 1 | Sin datos recientes (21s de antigüedad)
+2026-03-09 13:58:28 | Servidor Web 2 | Sin datos recientes (21s de antigüedad)
+2026-03-09 13:58:46 | Balanceador | Sin datos recientes (44s de antigüedad)
+2026-03-09 13:58:46 | Servidor Web 1 | Sin datos recientes (40s de antigüedad)
+2026-03-09 13:58:46 | Servidor Web 2 | Sin datos recientes (39s de antigüedad)
+2026-03-09 13:58:46 | Base de Datos | Sin datos recientes (45s de antigüedad)
+2026-03-09 13:58:58 | Balanceador | Sin datos recientes (56s de antigüedad)
+2026-03-09 13:58:58 | Servidor Web 1 | Sin datos recientes (51s de antigüedad)
+2026-03-09 13:58:58 | Servidor Web 2 | Sin datos recientes (51s de antigüedad)
+2026-03-09 13:58:58 | Base de Datos | Sin datos recientes (56s de antigüedad)
+2026-03-09 13:59:04 | Balanceador | nginx detenido
+2026-03-09 13:59:04 | Balanceador | mariadb detenido
+2026-03-09 13:59:04 | Servidor Web 1 | nginx detenido
+2026-03-09 13:59:04 | Servidor Web 1 | mariadb detenido
+2026-03-09 13:59:04 | Servidor Web 2 | nginx detenido
+2026-03-09 13:59:04 | Servidor Web 2 | mariadb detenido
+2026-03-09 13:59:04 | Base de Datos | nginx detenido
+2026-03-09 13:59:31 | Balanceador | Sin datos recientes (22s de antigüedad)
+2026-03-09 13:59:31 | Base de Datos | Sin datos recientes (23s de antigüedad)
+2026-03-09 13:59:34 | Servidor Web 1 | Sin datos recientes (21s de antigüedad)
+2026-03-09 13:59:34 | Servidor Web 2 | Sin datos recientes (21s de antigüedad)
+2026-03-13 09:07:41 | Balanceador | Sin datos recientes (328112s de antigüedad)2026-03-13 09:07:41 | Servidor Web 1 | Sin datos recientes (328107s de antigüedad)2026-03-13 09:07:41 | Servidor Web 2 | Sin datos recientes (328107s de antigüedad)2026-03-13 09:07:41 | Base de Datos | Sin datos recientes (328112s de antigüedad)2026-03-13 09:08:26 | Balanceador | nginx detenido2026-03-13 09:08:26 | Balanceador | mariadb detenido2026-03-13 09:08:26 | Servidor Web 1 | nginx detenido2026-03-13 09:08:26 | Servidor Web 1 | mariadb detenido2026-03-13 09:08:26 | Servidor Web 2 | nginx detenido2026-03-13 09:08:26 | Servidor Web 2 | mariadb detenido2026-03-13 09:08:26 | Base de Datos | nginx detenido2026-03-13 09:10:48 | Base de Datos | Archivo vacío o ilegible2026-03-13 09:18:26 | Servidor Web 2 | Archivo vacío o ilegible2026-03-13 09:18:26 | Base de Datos | mariadb detenido2026-03-13 09:19:08 | Balanceador | Sin datos recientes (20s de antigüedad)2026-03-13 09:19:08 | Servidor Web 1 | Sin datos recientes (20s de antigüedad)2026-03-13 09:19:08 | Servidor Web 2 | Sin datos recientes (20s de antigüedad)2026-03-13 09:19:08 | Base de Datos | Sin datos recientes (20s de antigüedad)2026-03-19 14:16:04 | Balanceador | nginx detenido2026-03-19 14:16:04 | Balanceador | mariadb detenido2026-03-19 14:16:04 | Servidor Web 1 | nginx detenido2026-03-19 14:16:04 | Servidor Web 1 | mariadb detenido2026-03-19 14:16:04 | Servidor Web 2 | nginx detenido2026-03-19 14:16:04 | Servidor Web 2 | mariadb detenido2026-03-19 14:16:04 | Base de Datos | nginx detenido
