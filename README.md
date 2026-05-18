@@ -182,10 +182,6 @@ fputcsv($out, $r);
 fprintf($out, chr(0xEF).chr(0xBB).chr(0xBF));
 ```
 
-Explicacion para la presentacion:
-
-> La exportacion CSV genera archivos directamente desde PHP. El administrador elige que datos exportar mediante un parametro en la URL, PHP consulta la base de datos, envia cabeceras de descarga y escribe las filas con `fputcsv()`.
-
 ## 7. Funcion destacada: trailers de YouTube embebidos
 
 Los trailers se muestran en:
@@ -224,10 +220,6 @@ Si se obtiene un ID valido, se crea un `iframe`:
 ```
 
 Se usa `youtube-nocookie.com` porque es la variante de embed con mejor privacidad. Tambien se usa `loading="lazy"` para que el video cargue solo cuando sea necesario.
-
-Explicacion para la presentacion:
-
-> Los trailers no se guardan en mi servidor. Solo guardo la URL o ID de YouTube en la base de datos. PHP extrae el ID y genera un iframe oficial de YouTube, de forma que cada ficha de juego muestra su trailer embebido.
 
 ## 8. Subida a InfinityFree
 
